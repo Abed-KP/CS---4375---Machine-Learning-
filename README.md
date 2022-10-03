@@ -9,3 +9,6 @@ This repository will contain all projects and assignments for CS 4375 - Into to 
 
 ### Linear Models
 [HomeWork 3 - Linear Models](https://github.com/Abed-KP/CS-4375---Machine-Learning/tree/main/HW3-Linear%20and%20Logistic%20Regression)
+
+### ML From Scratch
+[HomeWork 4 - ML From Scratch in C++(https://github.com/Abed-KP/CS-4375---Machine-Learning/tree/main/HW4%20-%20ASA190005)
