@@ -16,3 +16,7 @@ This repository will contain all projects and assignments for CS 4375 - Into to 
 ### Simalirty
 
 [Homework 5 - Simalirity](https://github.com/Abed-KP/CS-4375---Machine-Learning/tree/main/HW5%20-%20Similarity)
+
+### SVM and Ensemble Methods
+[Homework 6 - SVM and Ensemble Methods](https://github.com/Abed-KP/CS-4375---Machine-Learning/tree/main/HW6%20-%20SVM%20and%20Ensemble%20techniques)
+
