@@ -20,3 +20,8 @@ This repository will contain all projects and assignments for CS 4375 - Into to 
 ### SVM and Ensemble Methods
 [Homework 6 - SVM and Ensemble Methods](https://github.com/Abed-KP/CS-4375---Machine-Learning/tree/main/HW6%20-%20SVM%20and%20Ensemble%20techniques)
 
+### ML with Sklearn
+[Homework 7 - ML with Sklearn](https://github.com/Abed-KP/CS-4375---Machine-Learning/tree/main/HW7%20-%20ML%20with%20Sklearn)
+
+
+
