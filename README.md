@@ -23,5 +23,10 @@ This repository will contain all projects and assignments for CS 4375 - Into to 
 ### ML with Sklearn
 [Homework 7 - ML with Sklearn](https://github.com/Abed-KP/CS-4375---Machine-Learning/tree/main/HW7%20-%20ML%20with%20Sklearn)
 
+### Image Classification
+[Homework 8 -Image Classification](https://github.com/Abed-KP/CS-4375---Machine-Learning/tree/main/HW8%20-%20Image%20Classifcation)
+
+
+
 
 
